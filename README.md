@@ -2,6 +2,8 @@
 
 This Java application provides a graphical user interface (GUI) for generating strong and secure passwords. It leverages Java's Swing library to create an intuitive and user-friendly interface, allowing users to customize their password preferences and generate passwords with varying levels of complexity.
 
+![Password Generator GUI](https://raw.githubusercontent.com/localhost-sys/OOP/main/pic.png "Password Generator GUI").
+
 ## Features
 
 - **Password Length Customization:** Users can specify the desired length of the generated password.
